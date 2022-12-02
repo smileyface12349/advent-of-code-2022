@@ -14,7 +14,7 @@ int minIndex(const int array[3]) {
     return smallestIndex;
 }
 
-int main() {
+int day1part2() {
 
     int line_int;
     string line;
